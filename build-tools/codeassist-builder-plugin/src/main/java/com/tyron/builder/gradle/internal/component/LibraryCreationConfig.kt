@@ -1,3 +1,0 @@
-package com.tyron.builder.gradle.internal.component
-
-interface LibraryCreationConfig: VariantCreationConfig, AarCreationConfig, PublishableCreationConfig
